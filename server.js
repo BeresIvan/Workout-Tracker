@@ -20,9 +20,6 @@ mongoose.connect(
         useFindAndModify: false
     }
    );
-
-
-
   
    app.listen(PORT, () => {
       console.log(`App running at http://localhost:${PORT}`);
