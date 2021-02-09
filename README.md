@@ -23,7 +23,7 @@ Application should allow users to record workouts.
  
 ## Current Status and Updates
 * The app has been deployed on heroku
-* The app was troubelshooted using Mongo DB Atlas, Mongo DB workbanch and the the html console.
+* The app was troubelshooted using Mongo DB Atlas, Mongo DB compass and the html console.
  
  
  
@@ -32,7 +32,8 @@ Application should allow users to record workouts.
 - to further develope go to the github repository: https://github.com/BeresIvan/Workout-Tracker
 - Clone the repository using the "git clone" command in the command line.
 - Open the files in visual studio code using the ". code" command in the command line.
-- Start the app by using the "node server.js" command
+- Install the modules and dependencies using the npm install command.
+- Start the app by using the "node server.js" command.
  
  
 ## Acknowledgment 
